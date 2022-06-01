@@ -60,6 +60,10 @@ scala3-sections:
         description: "MOOCs to learn Scala, for beginners and experienced programmers."
         icon: "fa fa-cloud"
         link: /online-courses.html
+      - title: "Becoming a Scala OSS Contributor"
+        description: "How to start contributing to open-source Scala ecosystem"
+        icon: "fa fa-code-branch"
+        link: /scala3/newcomers/contributor.html
 
 scala2-sections:
   - title: "First Steps..."
